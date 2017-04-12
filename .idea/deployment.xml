@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="PrestoOrder">
+    <serverData>
+      <paths name="PrestoOrder">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wp-content/plugins/rkk-order-pickup-delivery" local="$PROJECT_DIR$" web="/wp-content/plugins/rkk-order-pickup-delivery" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

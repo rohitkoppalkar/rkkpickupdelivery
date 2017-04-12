@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.byconsolewooodt_widget_date_field,.byconsolewooodt_widget_time_field{ width:50% !important; float:left;}
+p.buttons{ text-align:center;}
+input[type="submit"]{ width:300px;}
+p.min-shipping-time{ text-align:center;}
+p.min-shipping-time img{ height:30px;}
